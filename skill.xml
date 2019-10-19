@@ -1,5 +1,5 @@
 <context>
-  <input pattern="* я готова* *">
-    <output value="проверка завершена успешно"/>
+  <input pattern="* СЏ РіРѕС‚РѕРІР°* *">
+    <output value="С‚РµСЃС‚ Р±РёР»Рґ Р°РєС‚РёРІРµРЅ"/>
   </input>
 </context>
