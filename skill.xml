@@ -1,0 +1,5 @@
+<context>
+  <input pattern="* я готова* *">
+    <output value="проверка завершена успешно"/>
+  </input>
+</context>
